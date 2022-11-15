@@ -11,7 +11,9 @@ namespace pizzaApp
             InitializeComponent();
 
             MainPage = new NavigationPage(new MainPage());
-           MainPage.BackgroundColor = Color.FromHex("#1abbd4");
+            var barredenavigation = new NavigationPage(new MainPage());
+            barredenavigation.BarBackgroundColor = Color.FromHex("#10bbd4");
+            MainPage = barredenavigation;
         }
         protected override void OnStart()
         {

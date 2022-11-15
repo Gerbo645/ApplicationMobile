@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ci3NFDP4EO3OiEVi8NK8IOZ1rI71lRyGdWWHONJyRWU5XtBvW4zLVbLt3a0l8EfbM80Y2nhLnFZKS3UEX+c1gw==",
+  "dgSpecHash": "rhDW/1+XUUkuJUlnuDXNycsASf32mvFCvyv84TSdEpSsgNrUufwOyLTYgmueFID3TJyflUmw2XS630Yp9lrHWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
+  "projectFilePath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",

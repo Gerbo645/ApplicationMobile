@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj": {}
+    "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj": {
+    "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
         "projectName": "pizzaApp.Android",
-        "projectPath": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
+        "projectPath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp.Android\\obj\\",
+        "outputPath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid13.0": {
             "projectReferences": {
-              "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj": {
-                "projectPath": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj"
+              "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj": {
+                "projectPath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj": {
+    "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj",
         "projectName": "pizzaApp",
-        "projectPath": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj",
+        "projectPath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp\\pizzaApp.csproj",
         "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DANIEL\\source\\repos\\pizzaApp\\pizzaApp\\pizzaApp\\obj\\",
+        "outputPath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pizzaApp.MainPage">
+    <NavigationPage.TitleView>
+
+        <StackLayout HorizontalOptions="Center"
+                     Margin="{OnPlatform iOS='0,0,25,0',Android='0,0,20,0',Default=0}"
+                     Orientation="Horizontal" >
+            <Image Source="pizza_logo.png" HeightRequest="40"/>
+            <Label Text="pizzas"
+                   FontAttributes="Bold"
+                   TextColor="White" VerticalOptions="Center" />
+
+
+        </StackLayout>
+    </NavigationPage.TitleView>
+
+
+    <ListView x:Name="maListView">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="90"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="50"/>
+                        </Grid.ColumnDefinitions>
+                        <Image Grid.Row="0" Grid.Column="0"  BackgroundColor="Green"/>
+                        <StackLayout Grid.Row="0" Grid.Column="0"
+                           HorizontalOptions="FillAndExpand"
+                           VerticalOptions="Center"
+                            Orientation="Vertical">
+                            <Label Text="{Binding Nom}" TextColor="Black" FontSize="16"/>
+                            
+                        </StackLayout>
+                        <Label Text="{Binding ListIgrediant }" Grid.Row="0" Grid.Column="1" TextColor="Black" FontSize="16"/>
+                        <Label Text="{Binding PrixDevise}" TextColor="Black" FontSize="20" Grid.Column="2" Grid.Row="0"/>
+                    </Grid>
+                </ViewCell >
+            </DataTemplate >
+        </ListView.ItemTemplate >
+    </ListView >
+</ContentPage>

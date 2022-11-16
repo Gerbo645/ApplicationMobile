@@ -8,15 +8,17 @@ namespace pizzaApp.Model
 {
     public class pizza
     {
-        public string Nom { get; set; }
-        public int Prix { get; set; }
-         public string[] Ingrediant { get; set; }
-        public string PrixDevise { get { return Prix + "FCFA"; }  }
-
-    public string ListIgrediant { get { return string.Join(",", Ingrediant); } }
+        public string nom { get; set; }
+        public int prix { get; set; }
+         public string[] ingredients { get; set; }
+        public string PrixDevise { get { return prix + "FCFA"; }  }
 
 
-       
+    public string ListIgrediant { get { return string.Join(",", ingredients); } }
+
+    public string imageUrl { get; set; }
+
+      
 
         public pizza()
              
@@ -25,6 +27,8 @@ namespace pizzaApp.Model
         }
 
     }
-   
-      
-}
+
+} 
+
+
+

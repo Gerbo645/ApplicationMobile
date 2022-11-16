@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "rhDW/1+XUUkuJUlnuDXNycsASf32mvFCvyv84TSdEpSsgNrUufwOyLTYgmueFID3TJyflUmw2XS630Yp9lrHWw==",
+  "dgSpecHash": "nQKa4posM7oe64DILjKflAP6Jac17vFZu6WWfg2uLED+AKqS4aIzacNAwZbwfY1DCcVoREqjBXTj3ggEIDZULQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.Android\\pizzaApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\DANIEL\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

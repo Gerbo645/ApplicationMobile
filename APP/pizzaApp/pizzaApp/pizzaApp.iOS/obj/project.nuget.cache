@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wGKFRfv1ufEuOQRMBsnZXlG8YN6wOgIFNpxNJglJdt8mORCS7AnY3Fs2FTu0/UfJOqlwHCkkFyYhqx8R4IG4Qw==",
+  "dgSpecHash": "wGJ5Es2jpDWbORXEu6PzPeXx8Y/UyG55ddLUMoOtbmVwfLZuEQEa0ltKf6e8YKC7+O0NhbnRQS5w56Tw0TQM/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\DANIEL\\Desktop\\ApplicationMobile\\APP\\pizzaApp\\pizzaApp\\pizzaApp.iOS\\pizzaApp.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\DANIEL\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\DANIEL\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

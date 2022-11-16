@@ -1266,3 +1266,7 @@ C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android
 C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.Bson.dll
+C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.Bson.pdb
+C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.dll
+C:\Users\DANIEL\Desktop\ApplicationMobile\APP\pizzaApp\pizzaApp\pizzaApp.Android\obj\Debug\130\android\assets\Newtonsoft.Json.pdb

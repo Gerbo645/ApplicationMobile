@@ -4,6 +4,8 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "pizzaApp.Android.dll" comes first in this list. */
 		"pizzaApp.Android.dll",
 		"FormsViewGroup.dll",
+		"Newtonsoft.Json.Bson.dll",
+		"Newtonsoft.Json.dll",
 		"pizzaApp.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",

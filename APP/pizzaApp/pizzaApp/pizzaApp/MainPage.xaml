@@ -24,7 +24,8 @@
         </Grid.ColumnDefinitions>
 
 
-        <ListView x:Name="maListView" RowHeight="100">
+        <ListView x:Name="maListView" RowHeight="100" IsPullToRefreshEnabled="True"
+                  Refreshing="maListView_Refreshing">
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <ViewCell>
